@@ -1,9 +1,9 @@
 ## Sidebar Bootstrap 5
 
-Pequeño ejemplo de un menú despleglable utilizando Bootstrap 5. El menú no se puede ocultar manualmente mediante un boton, si tamaño cambia dependiendo de las distintas resoluciones y para dispositivos moviles el menu queda reducido hasta visualizar unicamente los iconos.
+Pequeño ejemplo de un menú desplegable  utilizando Bootstrap 5. El menú no se puede ocultar manualmente mediante un botón, si tamaño cambia dependiendo de las distintas resoluciones y para dispositivos móviles el menú queda reducido hasta visualizar únicamente los iconos.
 
-### Instalaión 
-Para utilizar los iconos de bootstrap 5 se pueden instalar de varias formas, pero en este proyecto utilice el DCN:  
+### Instalación 
+Para utilizar los iconos de Bootstrap 5 se pueden instalar de varias formas, pero en este proyecto utilice el DCN:  
 
 - Sitio WEB: [Bootstrap 5 Iconos](https://icons.getbootstrap.com/)
 
